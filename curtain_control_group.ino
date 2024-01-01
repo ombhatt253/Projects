@@ -1,3 +1,8 @@
+/*******************************************************************
+    Control Curtain  on Telegram (via Telegram Group)
+
+   Code By OM BHATT
+ **********************/
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>

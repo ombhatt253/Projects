@@ -6,7 +6,7 @@ and DC BO Gear Motor</p>
 <p>using curtain control ckt diagram (curtain_control.png) </p> 
 <h3>Telegram Bot setup </h3>
 https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
-<h3>Arduino Code:</h3>
+<h3>Arduino Code:curtain_control.ino</h3>
 <p>required library : UniversalTelegramBot.h <br>
 Add this Universal-Arduino-Telegram-Bot-master.zip <br>
 follow these step - In the Arduino IDE, navigate to Sketch > Include Library <br>

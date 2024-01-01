@@ -11,4 +11,4 @@ https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
 Add this Universal-Arduino-Telegram-Bot-master.zip <br>
 follow these step - In the Arduino IDE, navigate to Sketch > Include Library <br>
 Add . ZIP Library. At the top of the drop down list, select the option to "Add . </p>
-<h4><b>Final result: Telegram_Bot.jpg </b></h4>
+<h4>Final result: Telegram_Bot.jpg </b></h4>

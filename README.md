@@ -5,7 +5,7 @@ DC BO Gear Motor<br>
 Jumper Wire</p>
 <h2>Interfacing with ESP32 :</h2>
 <p>using curtain control ckt diagram (curtain_control.png) </p> 
-<h3>Telegram Bot setup </h3>
+<h3>Telegram Bot setup : </h3>
 https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
 <h3>Arduino Code : curtain_control.ino</h3>
 <p>required library : UniversalTelegramBot.h <br>

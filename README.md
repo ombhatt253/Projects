@@ -9,7 +9,7 @@ using curtain control ckt diagram [curtain_control.png](https://github.com/ommib
 [Setup](https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/)
 # Arduino Code : 
 [curtain_control.ino](https://github.com/ommibhatt/Home-Automation-Curtain-Control-By-ESP32/blob/main/curtain_control.ino)
-#required library : 
+# required library : 
 UniversalTelegramBot.h
 # Final Result :
 [Telegram_Bot.jpg](https://github.com/ommibhatt/Home-Automation-Curtain-Control-By-ESP32/blob/main/Telegram_Bot.jpg)
